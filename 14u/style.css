@@ -85,7 +85,7 @@ body {
     margin: 0 auto;
     left: 0;
     right: 0;
-    top: 200px; /* Adjust this value to move the positioned div up and down */
+    top: 190px; /* Adjust this value to move the positioned div up and down */
     text-align: center;
   }
   
